@@ -1,0 +1,2 @@
+# CSC325-2022-23-CW2
+Gomoku AI
